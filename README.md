@@ -18,6 +18,6 @@ I’m a huge fan of body building and maybe it's not related at all, but sometim
 ## Let’s Connect
 - [Portfolio](#) – [https://tamaonly.framer.website/]
 - [Dribbble](#) – [https://dribbble.com/tamaonly]
-- [LinkedIn](#) – [https://www.linkedin.com/in/tamaonly/]
+- [Gmail](#) – [mailto:pluthfi22@gmail.com]
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luthfi-pratama&show_icons=true&theme=radical)
