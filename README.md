@@ -9,7 +9,7 @@ I’m a UI/UX designer passionate about creating user-friendly and visually appe
 
 ## Featured Projects
 - [My Portfolio](#) – A personal portfolio built with Framer to showcase my design work.
-- [Hospet Dashboard Revamp](#) - A redesign of a dashboard focus on tracking pet health
+- [Hospet Dashboard Revamp](#) - A redesign of a dashboard focus on tracking pet health.
 - [BuyCar Website Revamp](#) – A redesign of a vehicle sales platform focused on simplicity and usability.
 
 ## Fun Fact
